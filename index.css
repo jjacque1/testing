@@ -2,5 +2,22 @@
     border: border-box;
     margin: 0px;
     padding: 0px;
+}
 
+.head{
+    margin: 10px;
+    padding: 5px;
+}
+
+.class{
+    margin: 10px;
+    padding: 10px;
+}
+
+.button{
+    margin: 10px;
+}
+
+.link{
+    margin: 10px;
 }
