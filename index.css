@@ -23,3 +23,15 @@
     margin: 20px;
     padding: 10px;
 }
+
+.image{
+    height: 300px;
+    width: auto;
+    opacity: .5;
+    background-repeat: no-repeat;
+}
+
+.main{
+    background-image: url("./assets/bhk.jpg");
+    color: white;
+}
