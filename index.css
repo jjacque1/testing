@@ -1,42 +1,8 @@
 *{
-    border: border-box;
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
 }
 
-.navbar{
-    margin: 20px;
-    padding: 10px;
-}
-
-figure{
-    width: 10px;
-    height: 10px;
-}
-
-.h1{
-    margin: 20px;
-    padding: 10px;
-}
-
-.order-list{
-    margin: 20px;
-    padding: 10px;
-}
-
-.unorder-list{
-    margin: 20px;
-    padding: 10px;
-}
-
-.image{
-    height: 300px;
-    width: auto;
-    opacity: .5;
-    background-repeat: no-repeat;
-}
-
-.main{
-    background-image: url("./assets/bhk.jpg");
-    color: white;
+.logo{
+    border: solid 1px black;
 }
